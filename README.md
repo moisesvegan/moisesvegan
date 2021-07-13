@@ -3,6 +3,7 @@ Hi there, I'm Moises 👋
 I'm a Frontend developer
 
 🌱 I’m currently learning **React**
+
 📫 Contact me: moises.vegan@gmail.com
 
 
