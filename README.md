@@ -1,10 +1,9 @@
-Hi there, I'm Moises 👋
+Hi there, I'm Neoh 👋
 
 I'm a Frontend developer
 
 🌱 I’m currently learning **React**
 
-📫 Contact me: moises.vegan@gmail.com
 
 
 
